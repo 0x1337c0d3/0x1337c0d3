@@ -18,7 +18,9 @@ EXPERTISE
 │  BACKEND ├──┘  └── iOS / macOS (Swift, Objective-C)
 └──────────┘
 
-ASSEMBLY: Z80 · MIPS R3000 · ARM · V850 · PowerPC · x86/x64
+LANGUAGES: C · C++ · Go · Python · Swift · Obj-C · C# · Java · Lua
+TOOLS:     Snyk · Burp Suite Pro · GHAS · AWS · BuildKite · Okta · Unity 3D
+ASSEMBLY:  Z80 · MIPS R3000 · ARM · V850 · PowerPC · x86/x64
 
 かいしゃ
 ───────────────────────────────────────────────────────┬───────────────────────
