@@ -54,7 +54,7 @@ ASSEMBLY:  Z80 · MIPS R3000 · ARM · V850 · PowerPC · x86/x64
 
 DELIVERED
 ─────────────────────────────────────────────────────────────────────────────────
-claude-security             • AI-powered security scanning · Claude API    ← 2025
+claude-security            • AI-powered security scanning · Claude API     ← 2025
 agentic-python-harness     • agentic orchestration framework · Python      ← 2025
 MorphWiz Studio            • iPad / macOS / Windows  • with Jordan Rudess  ← 2020+
 Arctic ProSynth            • #1 App Store Music Category                   ← 2012
