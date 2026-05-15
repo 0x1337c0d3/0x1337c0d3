@@ -53,19 +53,19 @@ ASSEMBLY:  Z80 · MIPS R3000 · ARM · V850 · PowerPC · x86/x64
              Virgin Interactive Entertainment          ┤
 
 DELIVERED
-───────────────────────────────────────────────────────────────────────────────
-claude-security         • AI-powered security scanning · Claude API ← 2025
-agentic-python-harness  • agentic orchestration framework · Python  ← 2025
-MorphWiz Studio     • iPad / macOS / Windows  • with Jordan Rudess  ← 2020+
-Arctic ProSynth     • #1 App Store Music Category                   ← 2012
-Molten Drum Machine • first iPad MIDI support                       ← 2010
-Viva Football       • PlayStation / PC        • C + MIPS R3000 asm  ← 1998
-SpongeBob: Yellow Avenger  • Nintendo DS / Sony PSP                 ← 2005
-NEC e606 / e808 / e616     • first 3G handsets, Hutchinson '3'      ← 2003
-Bluefish444 drivers • Mac PCIe broadcast hardware, Intel + PPC      ← 2008
-Perfect Touch       • Amstrad PCW / CP/M / Z80 asm  • age 16        ← 1989
+─────────────────────────────────────────────────────────────────────────────────
+claude-security             • AI-powered security scanning · Claude API    ← 2025
+agentic-python-harness     • agentic orchestration framework · Python      ← 2025
+MorphWiz Studio            • iPad / macOS / Windows  • with Jordan Rudess  ← 2020+
+Arctic ProSynth            • #1 App Store Music Category                   ← 2012
+Molten Drum Machin         • first iPad MIDI support                       ← 2010
+Viva Football              • PlayStation / PC        • C + MIPS R3000 asm  ← 1998
+SpongeBob: Yellow Avenger  • Nintendo DS / Sony PSP                        ← 2005
+NEC e606 / e808 / e616     • first 3G handsets, Hutchinson '3'             ← 2003
+Bluefish444 drivers        • Mac PCIe broadcast hardware, Intel + PPC      ← 2008
+Perfect Touch              • Amstrad PCW / CP/M / Z80 asm  • age 16        ← 1989
 
 MISC
-───────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────────────────────
 BSc (Hons) Computing • Edinburgh Napier University • Upper Second
 ```
