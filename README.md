@@ -1,4 +1,4 @@
-Started writing C on a Z80 with 256KB of RAM and a green screen. Shipped games on cartridges. Built audio engines for DS titles — and composed the music. Wrote kernel drivers for broadcast video hardware. Co-founded a game studio. Hit #1 on the App Store with a synthesiser built from scratch. Now I lead application and cloud security at a major energy company.
+Started writing C on a Z80 with 256KB of RAM and a green screen. Shipped games on cartridges. Built audio engines for DS titles — and composed the music. Wrote kernel drivers for broadcast video hardware. Co-founded a game studio. Hit #1 on the App Store with a synthesiser built from scratch. Now I lead application and cloud security at a major energy company — and build agentic AI tooling on the side.
 
 The common thread: I build real things that work.
 
@@ -15,11 +15,14 @@ EXPERTISE
 │  MOBILE  ├──┤  ┌── audio DSP (C/C++, CoreAudio)
 └──────────┘  │  ├── kernel drivers (IOKit, PCIe, FPGA)
 ┌──────────┐  │  ├── game engines (PlayStation, DS, PSP)
-│  BACKEND ├──┘  └── iOS / macOS (Swift, Objective-C)
-└──────────┘
+│  BACKEND ├──┤  └── iOS / macOS (Swift, Objective-C)
+└──────────┘  │
+┌──────────┐  │  ┌── agentic orchestration (Claude API, Python)
+│    AI    ├──┘  ├── LLM-powered security tooling
+└──────────┘     └── claude-security · agentic-python-harness
 
 LANGUAGES: C · C++ · Go · Python · Swift · Obj-C · C# · Java · Lua
-TOOLS:     Snyk · Burp Suite Pro · GHAS · AWS · BuildKite · Okta · Unity 3D
+TOOLS:     Snyk · Burp Suite Pro · GHAS · AWS · BuildKite · Okta · Unity 3D · Claude API
 ASSEMBLY:  Z80 · MIPS R3000 · ARM · V850 · PowerPC · x86/x64
 
 かいしゃ
@@ -51,6 +54,8 @@ ASSEMBLY:  Z80 · MIPS R3000 · ARM · V850 · PowerPC · x86/x64
 
 DELIVERED
 ───────────────────────────────────────────────────────────────────────────────
+claude-security         • AI-powered security scanning · Claude API ← 2025
+agentic-python-harness  • agentic orchestration framework · Python  ← 2025
 MorphWiz Studio     • iPad / macOS / Windows  • with Jordan Rudess  ← 2020+
 Arctic ProSynth     • #1 App Store Music Category                   ← 2012
 Molten Drum Machine • first iPad MIDI support                       ← 2010
